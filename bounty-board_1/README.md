@@ -1,7 +1,3 @@
-# Intro to Kotlin Project - Part 1: Basic Game Mechanics
-
-Welcome to the first part of my introduction to Kotlin project! This project serves as a learning platform where I explore Kotlin programming language through the development of a simple game.
-
 ## About This Section
 
 In this initial segment, we lay down the foundation of our game with basic Kotlin syntax:
